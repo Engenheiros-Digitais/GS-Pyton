@@ -1,1 +1,3 @@
-nome = 1
+n = 1
+global nome
+print(nome)
